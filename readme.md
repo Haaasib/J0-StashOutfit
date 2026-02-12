@@ -1,5 +1,7 @@
 # Install – Items and images
 
+## Youtube Showcase : https://youtu.be/nyErWicaghs
+
 ## Item definitions
 
 Add these to your inventory. Stash props are useable: using the item starts placement mode.

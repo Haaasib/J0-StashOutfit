@@ -141,3 +141,16 @@ Copy from `install/images/` to your inventory images folder:
 ## Config
 
 `shared/config.lua`
+
+## Model Download
+
+It’s **FREE** on my Tebex store!
+
+🔗 https://tebex.haaasib.dev/
+
+➡️ Scroll down and you will find it there.
+
+![Screenshot 1](https://i.ibb.co.com/gkTvvDW/Screenshot-1.png)
+
+
+
